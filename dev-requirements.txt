@@ -1,6 +1,6 @@
 pip>20.0
 wheel>=0.29.0
-black>=19.3b0,<22.0
+black>=19.3b0,<25.0
 coverage>=4.0.3,<6.3.0
 flake8>=2.5.1,<5.0.0
 flake8-black>=0.1.1,<0.3.0
